@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://girlypop.com/sitemap.xml
