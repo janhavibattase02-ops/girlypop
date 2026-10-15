@@ -1,0 +1,11 @@
+{
+  "name": "GirlyPop - Emergency OS & Wellness",
+  "description": "An all-in-one emergency OS and discreet reproductive wellness companion for girls with real-time GPS sharing, voice SOS detection, GirlyPop AI assistant, period tracking, hygiene guides, and password protection.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
